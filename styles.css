@@ -1,0 +1,33 @@
+body {
+    text-align:center;
+    background-color: #FF5733;  
+    background-image: url("https://imgnooz.com/sites/default/files/wallpaper/nature/60914/beautiful-waterfall-wallpapers-60914-4982855.jpg");
+}
+h1{
+    color:white;
+    font-family: 'Permanent Marker', cursive;
+}
+h2 {
+    font-size:18px;
+    color:pink;
+    text-decoration:underline;
+    font-family: 'Anton', sans-serif;
+}
+h3 {
+    font-size:18px;
+    color:pink;
+    text-decoration:underline;
+    font-family: 'Anton', sans-serif;
+}
+h4 {
+    font-size:18px;
+    color:pink;
+    text-decoration:underline;
+    font-family: 'Anton', sans-serif;
+}
+.total {
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+    color:red;
+    
+}
